@@ -98,14 +98,10 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ## 🙏 Acknowledgements
 
-I would like to express my gratitude to the following resources, tools, and individuals who contributed to the development of this portfolio:
+I would like to express my gratitude to the following resources, tools who contributed to the development of this portfolio:
 
 - **[Boxicons](https://boxicons.com/)**: For providing the beautiful icons used throughout the website.
 
 - **[Google Fonts](https://fonts.google.com/)**: For the **Poppins** font, which gives the website a modern and clean look.
 
 - **[Web3Forms](https://web3forms.com/)**: For enabling seamless form submissions without the need for a backend.
-
-- **Open Source Community**: For providing countless tutorials, documentation, and inspiration that made this project possible.
-
-Special thanks to my mentors, friends, and family for their continuous support and encouragement throughout my journey as a developer.
